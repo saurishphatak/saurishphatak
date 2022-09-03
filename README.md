@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurish Phatak</h1>
 <h3 align="center">A passionate Frontend Developer and Concept Visualizer (I draw visuals of technologies and programming languages that help me learn, retain and present them better) from India.</h3>
 
-<img src='https://d1ok5audnc2xsv.cloudfront.net/hire-developers-risk-free-upstack.png' alt='coder | concept visualizer' width='500' align='center' height='500'>
+<p align='center'>
+    <img src='https://d1ok5audnc2xsv.cloudfront.net/hire-developers-risk-free-upstack.png' alt='coder | concept visualizer' width='500' height='500'>
+</p>
 
 - 🌱 I’m currently learning - **Data Science**
 
