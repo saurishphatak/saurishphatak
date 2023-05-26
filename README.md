@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurish Phatak</h1>
-<h3 align="center">A passionate Frontend Developer and Concept Visualizer (I draw visuals of technologies and programming languages that help me learn, retain and present them better) from India.</h3>
+<h3 align="center">A passionate Software Developer and Concept Visualizer (I draw visuals of technologies and programming languages that help me learn, retain and present them better) from India.</h3>
 
 <p align='center'>
     <img src='https://d1ok5audnc2xsv.cloudfront.net/hire-developers-risk-free-upstack.png' alt='coder | concept visualizer' width='500' height='500'>
@@ -13,7 +13,7 @@
 
 - 📫 Pop me an email at - **saurishphatak@gmail.com**
 
-- 📄 Here's my Resume - [Resume](https://drive.google.com/file/d/1lPPPKTqmGr615rO71D_HmT9EwvNncNp1/view?usp=sharing)
+- 📄 Here's my Resume - [Resume]([https://drive.google.com/file/d/1lPPPKTqmGr615rO71D_HmT9EwvNncNp1/view?usp=sharing](https://drive.google.com/file/d/1idlT6EtQVDSgxF_B2F1OUY6V4Fhb83Qd/view?usp=sharing))
 
 - ⚡ Fun fact - **I get my cardio done by running code!**
 
