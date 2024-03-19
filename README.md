@@ -13,7 +13,7 @@
 
 - 📫 Pop me an email at - **saurishphatak@gmail.com**
 
-- 📄 Here's my Resume - [Resume](https://drive.google.com/file/d/1aHr7kS1oGPxSsvoMu7j7oXwWts5-GrpL/view?usp=sharing)
+- 📄 Here's my Resume - [Resume](https://drive.google.com/file/d/1CiJvTZQ2cvJloYQhEtGOWSVNu7uR4oRQ/view?usp=sharing)
 
 - ⚡ Fun fact - **I get my cardio done by running code!**
 
